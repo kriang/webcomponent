@@ -1,19 +1,21 @@
-# Thomson Reuters Assignment
-
-Technical Assignment for the Solutions Consultant Role
+# Web Components
 
 
 ## Running the project
 
-Clone the repo, cd into 'reuters' directory and run
+Clone the repo, cd into 'webcomponent' directory and run
 
 ```
 yarn install
+
 ```
+
+
 Once the process completes, run
 
 ```
-yarn run serve
+yarn run dev-server (this will initialise the webpack develpoment server)
+
 ```
 
-Visit http://localhost:4000 to view the app.
+Visit http://localhost:8080 to view the app.
