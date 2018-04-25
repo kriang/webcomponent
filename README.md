@@ -17,3 +17,11 @@ yarn run dev-server
 ```
 
 Visit http://localhost:8080 to view the app.
+
+
+### Files
+
+Important file that you will be working on includes the following
+
+* src/components/HomePage.js
+* src/styles/global.scss 
